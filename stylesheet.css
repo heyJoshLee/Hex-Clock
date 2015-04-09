@@ -1,0 +1,24 @@
+/* CSS */
+
+@import url("http://fonts.googleapis.com/css?family=Lato:100");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html, body {
+    height: 100%;
+}
+
+
+#hex {
+    color: white;
+    font: 64px/64px Lato;
+    height: 64px;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    
+}
